@@ -1,0 +1,15 @@
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\bin\Debug\net6.0\CSharp_programm.exe
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\bin\Debug\net6.0\CSharp_programm.deps.json
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\bin\Debug\net6.0\CSharp_programm.runtimeconfig.json
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\bin\Debug\net6.0\CSharp_programm.dll
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\bin\Debug\net6.0\CSharp_programm.pdb
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\CSharp_programm.csproj.AssemblyReference.cache
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\CSharp_programm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\CSharp_programm.AssemblyInfoInputs.cache
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\CSharp_programm.AssemblyInfo.cs
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\CSharp_programm.csproj.CoreCompileInputs.cache
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\CSharp_programm.dll
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\refint\CSharp_programm.dll
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\CSharp_programm.pdb
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\CSharp_programm.genruntimeconfig.cache
+D:\Обучение\GeekBrains\IT-разработчик\Разработчик\Четверть1\Final_task\CSharp_programm\obj\Debug\net6.0\ref\CSharp_programm.dll
